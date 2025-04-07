@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasurbek </h1>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
 ---
@@ -23,27 +23,21 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
 </p>
 
-#### ⚙️ DevOps / Tools
+#### ⚙️ DevOps / Infrastructure
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/Firewall-secure-4CAF50?style=for-the-badge&logo=linux&logoColor=white" alt="Firewall" />
+  <img src="https://img.shields.io/badge/VPS-Cloud-0078D4?style=for-the-badge&logo=cloud&logoColor=white" alt="VPS" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-- Email: your.email@example.com
+- Email: jasurbekodilovn@gmail.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
----
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak"/>
-</p>
