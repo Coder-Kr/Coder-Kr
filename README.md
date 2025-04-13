@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jasurbek</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Jasurbek&fontAlign=50&reversal=false">
+
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
 
 ---
 
