@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Jasurbek&fontAlign=50&reversal=false">
+<!---<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Jasurbek&fontAlign=50&reversal=false">--->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Jasurbek&fontColor=3a7ee8&fontAlign=50&textBg=false">
+
 
 ---
 
