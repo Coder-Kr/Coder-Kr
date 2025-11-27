@@ -24,7 +24,7 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40"/>
    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40"/>
-   <img src="https://cdn1.tenchat.ru/static/vbc-gostinder/2024-02-05/d4b00569-b855-47d9-91e6-ec73a35734ff.png" alt="Spring Boot" width="40" height="40"/>
+   <img src="https://files.speakerdeck.com/presentations/7d18e0e6101f4fb29e0a096f09448615/slide_2.jpg" alt="Spring Boot" width="40" height="40"/>
   
 </p>
 
