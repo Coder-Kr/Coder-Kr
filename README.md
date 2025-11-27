@@ -22,8 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="NestJS" width="40" height="40"/>
-   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="NestJS" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40"/>
+   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40"/>
+   <img src="https://i.ytimg.com/vi/c4LZj9mJPWk/mqdefault.jpg" alt="Spring Boot" width="40" height="40"/>
   
 </p>
 
