@@ -42,7 +42,9 @@
 
 ### 📫 Let's Connect!
 - Email: jasurbekodilovn@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=coder-kr&show_icons=true&hide_border=true)](https://github.com/coder-kr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-kr&layout=compact)](https://github.com/coder-kr)
 
 
